@@ -3,17 +3,27 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
+  - description: Collaborators
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: Jitesh H. Panchal, Ph.D
+      href: https://engineering.purdue.edu/DELP/
       new_window: true
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Zoe Szajnfarber, Ph.D
+      href: https://www2.seas.gwu.edu/~zszajnfa/
       new_window: true
-
+  - description:
+    - text: Ilias Bilionis, Ph.D
+      href: https://www.predictivesciencelab.org/?_ga=2.111515655.289891589.1630329698-796331954.1623780667
+      new_window: true
+    - text: Daniel Selva, Ph.D
+      href: https://www.selva-research.com/
+      new_window: true
+  - description: 
+    - text: Donna H. Rhodes, Ph.D
+      href: http://seari.mit.edu/
+      new_window : true
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source. See [`_data/footer.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/footer.yml) to customize this text.
+      This research was made possible by research grants from the National Science Foundation and Ford Motor Company.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
