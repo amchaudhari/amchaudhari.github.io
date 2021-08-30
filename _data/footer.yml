@@ -11,16 +11,12 @@ columns:
     - text: Zoe Szajnfarber, Ph.D
       href: https://www2.seas.gwu.edu/~zszajnfa/
       new_window: true
-  - description:
-    links:
     - text: Ilias Bilionis, Ph.D
       href: https://www.predictivesciencelab.org/?_ga=2.111515655.289891589.1630329698-796331954.1623780667
       new_window: true
     - text: Daniel Selva, Ph.D
       href: https://www.selva-research.com/
       new_window: true
-  - description:
-    links:
     - text: Donna H. Rhodes, Ph.D
       href: http://seari.mit.edu/
       new_window : true
