@@ -5,4 +5,4 @@ author: [Ashish M. Chaudhari]
 categories: [Shared category]
 ---
 
-Visit for latest research and teaching updates by me and my collaborators.
+Visit for latest research and teaching updates from me and my collaborators.
