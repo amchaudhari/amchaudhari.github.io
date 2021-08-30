@@ -3,7 +3,7 @@ layout: home
 title: Towards Human-Machine Teams
 description: Smart Decision Support for Engineering Design
 background: /assets/img/chuttersnap-146799-unsplash.jpg
-permalink: /home/
+permalink: /
 ---
 
 **Vision**: To augment human decision making and machine intelligence for the design of products, processes, and systems. 

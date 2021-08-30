@@ -2,7 +2,7 @@
 title: Ashish M. Chaudhari, Ph.D                       # Title in top navigation bar (navbar) and <head>
 description: Research & teaching # Site description in <head>
 author: Ashish M. Chaudhari                    # Used for copyright statement in footer
-# url: "https://peterdesmet.github.io"  # No slash at the end
+url: "https://amchaudhari.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
